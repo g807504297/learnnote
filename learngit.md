@@ -4,3 +4,8 @@ git init
 git add <file>
 git commit -m <message>
 
+
+查看工作区状态：
+git status
+查看工作区哪些文件被修改过：
+git diff
