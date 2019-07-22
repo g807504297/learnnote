@@ -1,4 +1,4 @@
-# 图像梯度  
+# 图像边缘提取
 * 参考链接  
 https://blog.csdn.net/poem_qianmo/article/details/25560901  
 https://blog.csdn.net/saltriver/article/details/78987096  
